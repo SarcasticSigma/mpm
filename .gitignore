@@ -3,4 +3,5 @@ node_modules/
 build/
 assets/
 build.txt
-mods/
+mods/*
+config/*
